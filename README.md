@@ -1,7 +1,8 @@
 # Limitations of using composite fitness functions to predict population growth in variable environments
 
-Code and data pipeline for the manuscript *The flaws of fitness functions in
-changing environments* (von Schmalensee et al., in revision). Running the
+Code and data pipeline for the manuscript *Limitations of using composite
+fitness functions to predict population growth in variable environments*
+(von Schmalensee et al., in revision). Running the
 scripts below reproduces every figure and table of the paper.
 
 Data and fitted models are archived on Zenodo: [10.5281/zenodo.22297476](https://doi.org/10.5281/zenodo.22297476)
