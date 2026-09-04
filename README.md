@@ -15,8 +15,8 @@ Data and fitted models are archived on Zenodo: [10.5281/zenodo.22297476](https:/
 ## Setup
 
 ```
-git clone <repository>
-cd <repository>
+git clone https://github.com/lokevs/composite_fitness.git
+cd composite_fitness
 Rscript fetch_data.R
 ```
 
