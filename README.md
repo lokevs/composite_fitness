@@ -1,4 +1,4 @@
-# The flaws of fitness functions in changing environments
+# Limitations of using composite fitness functions to predict population growth in variable environments
 
 Code and data pipeline for the manuscript *The flaws of fitness functions in
 changing environments* (von Schmalensee et al., in revision). Running the
