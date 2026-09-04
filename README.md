@@ -71,7 +71,3 @@ assembled from these pages.
 | S9 | `Fig_S9_LRS_to_ovi_conversion` |
 | S10 | `Fig_S10_lambda_approximation_validation`, `Fig_S10_fertility_window_sensitivity` |
 | S11 | `Fig_S11_extrapolation_uncertainty` |
-
-Three figures scatter points with unseeded random jitter and therefore differ
-cosmetically between runs: `Fig_2_composite_fitness`,
-`Fig_3_site_specific_relative_fitness_diff` and `Fig_S9_LRS_to_ovi_conversion`.
